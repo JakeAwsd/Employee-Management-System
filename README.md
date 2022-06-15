@@ -4,10 +4,11 @@ This is an employee management system used to append, remove, and update a serie
 
 ## Installation
 
-Download the application from github
+Download the application from github and watch the walkthrough
 
 [Github](https://github.com/JakeAwsd/Employee-Management-System)
 
+[Video Walkthrough](https://watch.screencastify.com/v/zyDk5r3vwZpdxkUk5tUY)
 ## Usage
 
 ```
